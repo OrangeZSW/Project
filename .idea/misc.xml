@@ -15,6 +15,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/huanggang_shixun/pom.xml" />
       </list>
     </option>
   </component>
