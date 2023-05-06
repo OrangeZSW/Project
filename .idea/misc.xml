@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/demo" />
-    <file type="web" url="file://$PROJECT_DIR$/MyBatisTest" />
-    <file type="web" url="file://$PROJECT_DIR$/MyWeb" />
-    <file type="web" url="file://$PROJECT_DIR$/Orang_web" />
-    <file type="web" url="file://$PROJECT_DIR$/Orange_web" />
     <file type="web" url="file://$PROJECT_DIR$/web" />
-    <file type="web" url="file://$PROJECT_DIR$/web_one" />
-    <file type="web" url="file://$PROJECT_DIR$/webtest" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/app/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
         <option value="$PROJECT_DIR$/huanggang_shixun/pom.xml" />
+        <option value="$PROJECT_DIR$/OpenAi/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/课程设计/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK" />
 </project>
